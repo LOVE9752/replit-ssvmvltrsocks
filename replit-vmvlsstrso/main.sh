@@ -197,9 +197,7 @@ echo
 echo "更新日志：
 23.1.20更新：集成每10分钟自动唤醒功能
 23.1.27更新：一键五协议共存，域名网页显示Bad Request
-
-视频教程：https://www.youtube.com/@ygkkk
-博客地址：https://ygkkk.blogspot.com"
+XXS XXS XXS XXS XXS XXS "
 echo
 while true; do
 curl https://${REPL_SLUG}.${REPL_OWNER}.repl.co;sleep 600
